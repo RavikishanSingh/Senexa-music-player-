@@ -1,0 +1,16 @@
+#Sun Jul 19 14:24:32 IST 2026
+base.0=C\:\\Users\\RAVI KISHAN SINGH\\OneDrive\\Desktop\\Projects\\App\\Senexa\\app\\build\\intermediates\\dex\\nofirebaseDebugAndroidTest\\mergeExtDexNofirebaseDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\RAVI KISHAN SINGH\\OneDrive\\Desktop\\Projects\\App\\Senexa\\app\\build\\intermediates\\dex\\nofirebaseDebugAndroidTest\\mergeProjectDexNofirebaseDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\RAVI KISHAN SINGH\\OneDrive\\Desktop\\Projects\\App\\Senexa\\app\\build\\intermediates\\dex\\nofirebaseDebugAndroidTest\\mergeProjectDexNofirebaseDebugAndroidTest\\12\\classes.dex
+base.3=C\:\\Users\\RAVI KISHAN SINGH\\OneDrive\\Desktop\\Projects\\App\\Senexa\\app\\build\\intermediates\\dex\\nofirebaseDebugAndroidTest\\mergeProjectDexNofirebaseDebugAndroidTest\\13\\classes.dex
+base.4=C\:\\Users\\RAVI KISHAN SINGH\\OneDrive\\Desktop\\Projects\\App\\Senexa\\app\\build\\intermediates\\global_synthetics_dex\\nofirebaseDebugAndroidTest\\generateNofirebaseDebugAndroidTestGlobalSynthetics\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=13/classes.dex
+path.4=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex

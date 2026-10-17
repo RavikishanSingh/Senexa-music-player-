@@ -1,0 +1,273 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ravis.senexa"
+4    android:versionCode="11"
+5    android:versionName="1.0.17" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:8:5-77
+13-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:8:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:9:5-77
+14-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:9:22-74
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+15-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:10:5-92
+15-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:10:22-89
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:11:5-68
+16-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:11:22-65
+17
+18    <permission
+18-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.ravis.senexa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.ravis.senexa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:13:5-83:19
+25        android:name="com.ravis.senexa.BaseApplicationClass"
+25-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:14:9-45
+26        android:allowBackup="true"
+26-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:15:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:16:9-65
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+30-->INJECTED
+31        android:fullBackupContent="@xml/backup_rules"
+31-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:17:9-54
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:18:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:19:9-41
+34        android:networkSecurityConfig="@xml/network_security_config"
+34-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:20:9-69
+35        android:requestLegacyExternalStorage="true"
+35-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:21:9-52
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:22:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:23:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.Senexa"
+39-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:24:9-44
+40        android:usesCleartextTraffic="true" >
+40-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:25:9-44
+41        <activity
+41-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:28:9-30:40
+42            android:name="com.ravis.senexa.activities.ListActivity"
+42-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:29:13-52
+43            android:exported="false" />
+43-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:30:13-37
+44        <activity
+44-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:31:9-34:50
+45            android:name="com.ravis.senexa.activities.ArtistProfileActivity"
+45-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:32:13-61
+46            android:exported="false"
+46-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:33:13-37
+47            android:theme="@style/CustomTheme" />
+47-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:34:13-47
+48        <activity
+48-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:35:9-37:40
+49            android:name="com.ravis.senexa.activities.BuiltByActivity"
+49-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:36:13-55
+50            android:exported="false" />
+50-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:37:13-37
+51        <activity
+51-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:38:9-40:40
+52            android:name="com.ravis.senexa.activities.SearchActivity"
+52-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:39:13-54
+53            android:exported="false" />
+53-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:40:13-37
+54        <activity
+54-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:41:9-43:40
+55            android:name="com.ravis.senexa.activities.MusicOverviewActivity"
+55-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:42:13-61
+56            android:exported="false" />
+56-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:43:13-37
+57        <activity
+57-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:44:9-51:20
+58            android:name="com.ravis.senexa.activities.MainActivity"
+58-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:45:13-52
+59            android:exported="true" >
+59-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:46:13-36
+60            <intent-filter>
+60-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:47:13-50:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:48:17-69
+61-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:48:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:49:17-77
+63-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:49:27-74
+64            </intent-filter>
+65        </activity>
+66
+67        <service
+67-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:53:9-56:61
+68            android:name="com.ravis.senexa.services.MusicService"
+68-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:54:13-50
+69            android:enabled="true"
+69-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:55:13-35
+70            android:foregroundServiceType="mediaPlayback" />
+70-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:56:13-58
+71
+72        <receiver
+72-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:58:9-67:20
+73            android:name="com.ravis.senexa.services.NotificationReceiver"
+73-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:59:13-58
+74            android:enabled="true"
+74-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:60:13-35
+75            android:exported="true" >
+75-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:61:13-36
+76            <intent-filter>
+76-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:62:13-66:29
+77                <action android:name="prev" />
+77-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:63:17-47
+77-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:63:25-44
+78                <action android:name="play" />
+78-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:64:17-47
+78-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:64:25-44
+79                <action android:name="next" />
+79-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:65:17-47
+79-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:65:25-44
+80            </intent-filter>
+81        </receiver>
+82        <receiver
+82-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:69:9-79:20
+83            android:name="com.ravis.senexa.widgets.WidgetPlayerProvider"
+83-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:70:13-57
+84            android:exported="true" >
+84-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:71:13-36
+85            <intent-filter>
+85-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:72:13-74:29
+86                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+86-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:73:17-84
+86-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:73:25-81
+87            </intent-filter>
+88
+89            <meta-data
+89-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:76:13-78:62
+90                android:name="android.appwidget.provider"
+90-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:77:17-58
+91                android:resource="@xml/widget_player_info" />
+91-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:78:17-59
+92        </receiver>
+93        <receiver
+93-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:80:9-82:39
+94            android:name="com.ravis.senexa.widgets.WidgetControlReceiver"
+94-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:81:13-58
+95            android:exported="true" />
+95-->C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:82:13-36
+96
+97        <provider
+97-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+98            android:name="androidx.startup.InitializationProvider"
+98-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+99            android:authorities="com.ravis.senexa.androidx-startup"
+99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+100            android:exported="false" >
+100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+101            <meta-data
+101-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+102-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+103                android:value="androidx.startup" />
+103-->[androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+105-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+106                android:value="androidx.startup" />
+106-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+107            <meta-data
+107-->[com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:16:13-18:52
+108                android:name="okhttp3.internal.platform.PlatformInitializer"
+108-->[com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:17:17-77
+109                android:value="androidx.startup" />
+109-->[com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:18:17-49
+110            <meta-data
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+111                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+112                android:value="androidx.startup" />
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+113        </provider>
+114        <provider
+114-->[com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+115            android:name="com.squareup.picasso.PicassoProvider"
+115-->[com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+116            android:authorities="com.ravis.senexa.com.squareup.picasso"
+116-->[com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+117            android:exported="false" />
+117-->[com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+118
+119        <service
+119-->[androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
+120            android:name="androidx.room.MultiInstanceInvalidationService"
+120-->[androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:25:13-74
+121            android:directBootAware="true"
+121-->[androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:26:13-43
+122            android:exported="false" />
+122-->[androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:27:13-37
+123
+124        <receiver
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+125            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+126            android:directBootAware="false"
+126-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+127            android:enabled="true"
+127-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+128            android:exported="true"
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+129            android:permission="android.permission.DUMP" >
+129-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+131                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+134                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+135            </intent-filter>
+136            <intent-filter>
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+137                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+138            </intent-filter>
+139            <intent-filter>
+139-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+140                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+141            </intent-filter>
+142        </receiver>
+143    </application>
+144
+145</manifest>

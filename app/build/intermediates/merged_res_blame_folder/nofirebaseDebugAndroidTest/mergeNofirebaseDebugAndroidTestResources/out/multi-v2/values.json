@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ravis.senexa.test.app-mergeNofirebaseDebugAndroidTestResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\caches\\9.6.0\\transforms\\13ee301f7f32884703f3ae6e710016ce\\transformed\\core-1.7.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "142,510",
+                        "endLines": "10,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "509,875"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,427",
+                        "endLines": "8,15",
+                        "endColumns": "8,8",
+                        "endOffsets": "422,792"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="@dimen/_12sdp">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:src="@drawable/round_arrow_back_24"
+            android:onClick="backPress"
+            android:contentDescription="Back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Built By"
+            android:fontFamily="@font/avenir_next_bold"
+            android:textSize="@dimen/_16ssp"
+            android:textColor="@color/textMain"
+            android:layout_marginStart="@dimen/_16sdp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="@dimen/_24sdp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_80sdp"
+            app:cardCornerRadius="@dimen/_16sdp"
+            app:cardBackgroundColor="@color/background"
+            android:layout_marginBottom="@dimen/_24sdp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/icon"
+                android:contentDescription="Logo" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Senexa Music Player"
+            android:fontFamily="@font/avenir_next_bold"
+            android:textSize="@dimen/_20ssp"
+            android:textColor="@color/textMain"
+            android:layout_marginBottom="@dimen/_24sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Built By:"
+            android:fontFamily="@font/avenir_next_bold"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/textSec"
+            android:layout_marginBottom="@dimen/_12sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Ravikishan Singh\n2. Madhav Pisal\n3. Priya Ghorai"
+            android:fontFamily="@font/avenir_next_regular"
+            android:textSize="@dimen/_16ssp"
+            android:textColor="@color/textMain"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/_8sdp" />
+
+    </LinearLayout>
+
+</LinearLayout>

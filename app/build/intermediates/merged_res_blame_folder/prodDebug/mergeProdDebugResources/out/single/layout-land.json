@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_download_manager.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_download_manager.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_list.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_list.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_artist_profile.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_artist_profile.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_search.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_search.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_main.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_saved_libraries.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_saved_libraries.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_settings.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_settings.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout-land/activity_music_overview.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout-land/activity_music_overview.xml"
+    }
+]

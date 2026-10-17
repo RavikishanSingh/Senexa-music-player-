@@ -1,0 +1,3 @@
+com.ravis.senexa.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "LINKED_RESOURCES_BINARY_FORMAT",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ravis.senexa",
+  "variantName": "nofirebaseDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 11,
+      "versionName": "1.0.17",
+      "outputFile": "linked-resources-binary-format-nofirebaseDebug.ap_"
+    }
+  ],
+  "elementType": "File"
+}

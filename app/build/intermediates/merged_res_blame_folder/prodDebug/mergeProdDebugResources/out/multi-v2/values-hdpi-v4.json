@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ravis.senexa.app-mergeProdDebugResources-55:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\caches\\9.6.0\\transforms\\4339bdbac89cc509e047131abd317b11\\transformed\\appcompat-1.7.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

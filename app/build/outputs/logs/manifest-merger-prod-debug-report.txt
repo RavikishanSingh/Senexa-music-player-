@@ -1,0 +1,963 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:2:1-85:12
+MERGED from [androidx.databinding:viewbinding:9.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c393da38ce0bd4830793a19c422b8ee\transformed\viewbinding-9.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\31bd619a554684543dfb291d7f54947a\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f683e075b35a0a0fe3a0cd57acf9e4a1\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yarolegovich:SlidingRootNav:v1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ecfd06ced1bd3f37faea143c4b7face1\transformed\SlidingRootNav-v1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d9852dd1a96ed6614210b8b89333b787\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4339bdbac89cc509e047131abd317b11\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9a4686a2fbcee08551b8ed2206df0b2a\transformed\glide-5.0.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\fcfded2262503cea3c655cc56190b1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d03c5f4936184cf493a476d507a1ae74\transformed\firebase-analytics-23.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\78c8124a353172a9746b30b7eda3b5f3\transformed\play-services-measurement-sdk-23.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\747a02c15c148d5bade2948c0b05d8c8\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cccb5036734a0dea87557bcdcb3430d8\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3fa2d4add62adbda20ac11ca9a4d6e1b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bf6372fdfb2aff5ef81cc0cd1a271c50\transformed\play-services-measurement-base-23.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\581f803eaabb43a3b95269171304f079\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1a5e3e240b884d64eb332327ca58a3fb\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\eec3685bd402f9af558a4fa8a39b5c4c\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5d0d1097d01818b5ce1aa42dedb29adc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0e35a751b722ab388ab19e171e5df8ab\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0fb0af9c2fa9cc9505502f70f7d398a1\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec30eaad9b3eac0b775c92619e12438c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3858baa9e19152c68ea099ab5f55eae\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\148bd79da2b66c1ae7621397079031e8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e7c90537820a72c1e1ba789266ecdc43\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.everythingme:overscroll-decor-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\86effe5c4026b8f75e6ec8824ac0748c\transformed\overscroll-decor-android-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media3:media3-exoplayer-dash:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b205841e8fcbc1d34dab757d4b2b2726\transformed\media3-exoplayer-dash-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.media3:media3-extractor:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec7bf8b2acdd40b802496f6951e99ede\transformed\media3-extractor-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b4863e9c535c3f9891a419688c8c98dd\transformed\media3-container-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\18495c76c7cad6e8e58bb9357a1937ee\transformed\media3-datasource-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2aadb30de85e0b3ce91ea521f832965a\transformed\media3-decoder-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\660c2fc006850bc1e9a6957d8949f4ef\transformed\media3-database-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7025d1d151604dc5e8750fe30f68d607\transformed\media3-common-1.9.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-ui:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a0d6b95ba525b7550c050b0f3149e9cb\transformed\media3-ui-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.markomilos:paginate:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b6840262c14a46297f5bf4d669b4d333\transformed\paginate-1.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\33ef3bc536bea2e8505d5cec1a6974a3\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4220ce3a8c7ac2d8a2040bca8bba8c99\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\05578929fcfaa1967b31d76ad086e112\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dc6f5e4c2dec1a550dea4aeca380931e\transformed\core-ktx-1.18.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d87249e4cab0887d81adeafdf312e1ec\transformed\swiperefreshlayout-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3de750fd18b672a36fd56f21f91d1a81\transformed\media-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c0cd11c061f0d2b3aec0c207291415e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9b495a15ef0b4f114f6a08ecd556191d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4bd02de6a34217f6d259cca4c500708\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\018930cd231e6e2619214ac8df699002\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e03ee186231068b8a72f05253d9340a4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\723848f90deae293a6d0cd786b1924c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a5a31a49e46aee409874c718d0b2f422\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e990c82c162966602473970bec75afd4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\da00929f2d4273d1df3c6889db788092\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c561cfd7b261ce75aca053ee11d09363\transformed\navigationevent\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4b9c114872fc8fe907587d651ab9010\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c1ec0f1db71d6078330e6ddf08019027\transformed\datastore-preferences-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\81657eded53a5f382d64f87bab1f2cd8\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7c8289ca51a228689f561669da982436\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\286ca00e992036528491131c9d8a0e62\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d27e5d9305929c721cd3abd84967e605\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c60908d80dcf2f4e636a75780741d63c\transformed\fragment-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\568c6d508506cf0de7c00f394330d5e7\transformed\activity-1.13.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\653f7220f08732f75c25554580afd8b6\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5bc146e70bf8ecc401c3743175b09646\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bbb847922e752d66f69abb56af5e5df2\transformed\shimmer-0.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\46f7635217bd23bc894b615413f9f8e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\617f057bc2614e0d519e897b27fc0082\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c22344aa58145d02a2c5a4e162d26c3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e2b89144358265034a43448a071c864e\transformed\gifdecoder-5.0.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c0491fac6740fdba4400823748573f2\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\317cfacce8a1bc815e02f1fc2e2ee810\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e35246628629d85fe42f47f2c27d7c3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\014aa7108a07b2f9ee630255cc92e654\transformed\firebase-components-19.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\138ba7c478b4adad07d5249979926e1d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\61dad9bb1fbd994cdb03b3eadd4cc34c\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\64b9c8a6fe6a2eba8eb969a7d5826dcb\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4f2edb34dc740b8825470b268482efe8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c7aa2b6888f8a0e6d649a9759c2e4966\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9d825694315e17f95354e80f9eaee10e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51ea74b8e1ed5e95f8597ad7cce93692\transformed\sqlite-framework\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\55eb73f92de882c20eddab51995c7dcb\transformed\sqlite\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\922c7fc91bbdd66d6aa31a267453de5a\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [com.intuit.ssp:ssp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2074ea994a472e27e0baa1605ac85f57\transformed\ssp-android-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\aeb3ee92c1bfa81afe65389ed0aa9397\transformed\sdp-android-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:disklrucache:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\530b081add79e53892bd3dd4db13b095\transformed\disklrucache-5.0.5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8373b5d11bb657cc0674d8f16e577cf8\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:8:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7025d1d151604dc5e8750fe30f68d607\transformed\media3-common-1.9.3\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7025d1d151604dc5e8750fe30f68d607\transformed\media3-common-1.9.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:10:22-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:23:5-68
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:11:22-65
+application
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:13:5-83:19
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:13:5-83:19
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\31bd619a554684543dfb291d7f54947a\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\31bd619a554684543dfb291d7f54947a\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f683e075b35a0a0fe3a0cd57acf9e4a1\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f683e075b35a0a0fe3a0cd57acf9e4a1\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d03c5f4936184cf493a476d507a1ae74\transformed\firebase-analytics-23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d03c5f4936184cf493a476d507a1ae74\transformed\firebase-analytics-23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\78c8124a353172a9746b30b7eda3b5f3\transformed\play-services-measurement-sdk-23.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\78c8124a353172a9746b30b7eda3b5f3\transformed\play-services-measurement-sdk-23.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\747a02c15c148d5bade2948c0b05d8c8\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\747a02c15c148d5bade2948c0b05d8c8\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cccb5036734a0dea87557bcdcb3430d8\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cccb5036734a0dea87557bcdcb3430d8\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3fa2d4add62adbda20ac11ca9a4d6e1b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3fa2d4add62adbda20ac11ca9a4d6e1b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bf6372fdfb2aff5ef81cc0cd1a271c50\transformed\play-services-measurement-base-23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bf6372fdfb2aff5ef81cc0cd1a271c50\transformed\play-services-measurement-base-23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d27e5d9305929c721cd3abd84967e605\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d27e5d9305929c721cd3abd84967e605\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:10:5-20:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e35246628629d85fe42f47f2c27d7c3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e35246628629d85fe42f47f2c27d7c3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:21:9-52
+	android:roundIcon
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:18:9-43
+	android:networkSecurityConfig
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:20:9-69
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:19:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:17:9-54
+	tools:targetApi
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:26:9-29
+	android:allowBackup
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:24:9-44
+	android:dataExtractionRules
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:16:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:14:9-45
+activity#com.ravis.senexa.activities.ListActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:29:13-52
+activity#com.ravis.senexa.activities.ArtistProfileActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:31:9-34:50
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:34:13-47
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:32:13-61
+activity#com.ravis.senexa.activities.BuiltByActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:36:13-55
+activity#com.ravis.senexa.activities.SearchActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:39:13-54
+activity#com.ravis.senexa.activities.MusicOverviewActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:42:13-61
+activity#com.ravis.senexa.activities.MainActivity
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:44:9-51:20
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:45:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:49:27-74
+service#com.ravis.senexa.services.MusicService
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:53:9-56:61
+	android:enabled
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:55:13-35
+	android:foregroundServiceType
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:54:13-50
+receiver#com.ravis.senexa.services.NotificationReceiver
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:58:9-67:20
+	android:enabled
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:60:13-35
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:59:13-58
+intent-filter#action:name:next+action:name:play+action:name:prev
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:62:13-66:29
+action#prev
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:63:17-47
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:63:25-44
+action#play
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:64:17-47
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:64:25-44
+action#next
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:65:17-47
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:65:25-44
+receiver#com.ravis.senexa.widgets.WidgetPlayerProvider
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:69:9-79:20
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:70:13-57
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:72:13-74:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:73:17-84
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:73:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:76:13-78:62
+	android:resource
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:78:17-59
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:77:17-58
+receiver#com.ravis.senexa.widgets.WidgetControlReceiver
+ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:80:9-82:39
+	android:exported
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:82:13-36
+	android:name
+		ADDED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml:81:13-58
+uses-sdk
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:9.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c393da38ce0bd4830793a19c422b8ee\transformed\viewbinding-9.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:9.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c393da38ce0bd4830793a19c422b8ee\transformed\viewbinding-9.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\31bd619a554684543dfb291d7f54947a\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\31bd619a554684543dfb291d7f54947a\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f683e075b35a0a0fe3a0cd57acf9e4a1\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f683e075b35a0a0fe3a0cd57acf9e4a1\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.yarolegovich:SlidingRootNav:v1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ecfd06ced1bd3f37faea143c4b7face1\transformed\SlidingRootNav-v1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yarolegovich:SlidingRootNav:v1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ecfd06ced1bd3f37faea143c4b7face1\transformed\SlidingRootNav-v1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d9852dd1a96ed6614210b8b89333b787\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d9852dd1a96ed6614210b8b89333b787\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4339bdbac89cc509e047131abd317b11\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4339bdbac89cc509e047131abd317b11\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9a4686a2fbcee08551b8ed2206df0b2a\transformed\glide-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9a4686a2fbcee08551b8ed2206df0b2a\transformed\glide-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\fcfded2262503cea3c655cc56190b1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\fcfded2262503cea3c655cc56190b1e6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d03c5f4936184cf493a476d507a1ae74\transformed\firebase-analytics-23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d03c5f4936184cf493a476d507a1ae74\transformed\firebase-analytics-23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\78c8124a353172a9746b30b7eda3b5f3\transformed\play-services-measurement-sdk-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\78c8124a353172a9746b30b7eda3b5f3\transformed\play-services-measurement-sdk-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\747a02c15c148d5bade2948c0b05d8c8\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\747a02c15c148d5bade2948c0b05d8c8\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cccb5036734a0dea87557bcdcb3430d8\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cccb5036734a0dea87557bcdcb3430d8\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3fa2d4add62adbda20ac11ca9a4d6e1b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3fa2d4add62adbda20ac11ca9a4d6e1b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bf6372fdfb2aff5ef81cc0cd1a271c50\transformed\play-services-measurement-base-23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bf6372fdfb2aff5ef81cc0cd1a271c50\transformed\play-services-measurement-base-23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\581f803eaabb43a3b95269171304f079\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\581f803eaabb43a3b95269171304f079\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1a5e3e240b884d64eb332327ca58a3fb\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1a5e3e240b884d64eb332327ca58a3fb\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\eec3685bd402f9af558a4fa8a39b5c4c\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\eec3685bd402f9af558a4fa8a39b5c4c\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5d0d1097d01818b5ce1aa42dedb29adc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5d0d1097d01818b5ce1aa42dedb29adc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0e35a751b722ab388ab19e171e5df8ab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0e35a751b722ab388ab19e171e5df8ab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0fb0af9c2fa9cc9505502f70f7d398a1\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\0fb0af9c2fa9cc9505502f70f7d398a1\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec30eaad9b3eac0b775c92619e12438c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec30eaad9b3eac0b775c92619e12438c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3858baa9e19152c68ea099ab5f55eae\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3858baa9e19152c68ea099ab5f55eae\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\148bd79da2b66c1ae7621397079031e8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\148bd79da2b66c1ae7621397079031e8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e7c90537820a72c1e1ba789266ecdc43\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e7c90537820a72c1e1ba789266ecdc43\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [io.github.everythingme:overscroll-decor-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\86effe5c4026b8f75e6ec8824ac0748c\transformed\overscroll-decor-android-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.everythingme:overscroll-decor-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\86effe5c4026b8f75e6ec8824ac0748c\transformed\overscroll-decor-android-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media3:media3-exoplayer-dash:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b205841e8fcbc1d34dab757d4b2b2726\transformed\media3-exoplayer-dash-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b205841e8fcbc1d34dab757d4b2b2726\transformed\media3-exoplayer-dash-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9c1ef0a901d021d77d9577770d3d312d\transformed\media3-exoplayer-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec7bf8b2acdd40b802496f6951e99ede\transformed\media3-extractor-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ec7bf8b2acdd40b802496f6951e99ede\transformed\media3-extractor-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b4863e9c535c3f9891a419688c8c98dd\transformed\media3-container-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b4863e9c535c3f9891a419688c8c98dd\transformed\media3-container-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\18495c76c7cad6e8e58bb9357a1937ee\transformed\media3-datasource-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\18495c76c7cad6e8e58bb9357a1937ee\transformed\media3-datasource-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2aadb30de85e0b3ce91ea521f832965a\transformed\media3-decoder-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2aadb30de85e0b3ce91ea521f832965a\transformed\media3-decoder-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\660c2fc006850bc1e9a6957d8949f4ef\transformed\media3-database-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\660c2fc006850bc1e9a6957d8949f4ef\transformed\media3-database-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7025d1d151604dc5e8750fe30f68d607\transformed\media3-common-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7025d1d151604dc5e8750fe30f68d607\transformed\media3-common-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a0d6b95ba525b7550c050b0f3149e9cb\transformed\media3-ui-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.9.3] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a0d6b95ba525b7550c050b0f3149e9cb\transformed\media3-ui-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [com.github.markomilos:paginate:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b6840262c14a46297f5bf4d669b4d333\transformed\paginate-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.markomilos:paginate:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b6840262c14a46297f5bf4d669b4d333\transformed\paginate-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\33ef3bc536bea2e8505d5cec1a6974a3\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\33ef3bc536bea2e8505d5cec1a6974a3\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4220ce3a8c7ac2d8a2040bca8bba8c99\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4220ce3a8c7ac2d8a2040bca8bba8c99\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\05578929fcfaa1967b31d76ad086e112\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\05578929fcfaa1967b31d76ad086e112\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dc6f5e4c2dec1a550dea4aeca380931e\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dc6f5e4c2dec1a550dea4aeca380931e\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d87249e4cab0887d81adeafdf312e1ec\transformed\swiperefreshlayout-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d87249e4cab0887d81adeafdf312e1ec\transformed\swiperefreshlayout-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3de750fd18b672a36fd56f21f91d1a81\transformed\media-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3de750fd18b672a36fd56f21f91d1a81\transformed\media-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c0cd11c061f0d2b3aec0c207291415e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c0cd11c061f0d2b3aec0c207291415e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9b495a15ef0b4f114f6a08ecd556191d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9b495a15ef0b4f114f6a08ecd556191d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4bd02de6a34217f6d259cca4c500708\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4bd02de6a34217f6d259cca4c500708\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\018930cd231e6e2619214ac8df699002\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\018930cd231e6e2619214ac8df699002\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e03ee186231068b8a72f05253d9340a4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e03ee186231068b8a72f05253d9340a4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\723848f90deae293a6d0cd786b1924c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\723848f90deae293a6d0cd786b1924c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a5a31a49e46aee409874c718d0b2f422\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a5a31a49e46aee409874c718d0b2f422\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e990c82c162966602473970bec75afd4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e990c82c162966602473970bec75afd4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\da00929f2d4273d1df3c6889db788092\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\da00929f2d4273d1df3c6889db788092\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c561cfd7b261ce75aca053ee11d09363\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c561cfd7b261ce75aca053ee11d09363\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4b9c114872fc8fe907587d651ab9010\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\f4b9c114872fc8fe907587d651ab9010\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c1ec0f1db71d6078330e6ddf08019027\transformed\datastore-preferences-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c1ec0f1db71d6078330e6ddf08019027\transformed\datastore-preferences-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\81657eded53a5f382d64f87bab1f2cd8\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\81657eded53a5f382d64f87bab1f2cd8\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7c8289ca51a228689f561669da982436\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7c8289ca51a228689f561669da982436\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\286ca00e992036528491131c9d8a0e62\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\286ca00e992036528491131c9d8a0e62\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d27e5d9305929c721cd3abd84967e605\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d27e5d9305929c721cd3abd84967e605\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c60908d80dcf2f4e636a75780741d63c\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c60908d80dcf2f4e636a75780741d63c\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\568c6d508506cf0de7c00f394330d5e7\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\568c6d508506cf0de7c00f394330d5e7\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\653f7220f08732f75c25554580afd8b6\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\653f7220f08732f75c25554580afd8b6\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:6:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:6:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5bc146e70bf8ecc401c3743175b09646\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5bc146e70bf8ecc401c3743175b09646\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bbb847922e752d66f69abb56af5e5df2\transformed\shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\bbb847922e752d66f69abb56af5e5df2\transformed\shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\46f7635217bd23bc894b615413f9f8e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\46f7635217bd23bc894b615413f9f8e3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\617f057bc2614e0d519e897b27fc0082\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\617f057bc2614e0d519e897b27fc0082\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c22344aa58145d02a2c5a4e162d26c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c22344aa58145d02a2c5a4e162d26c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e2b89144358265034a43448a071c864e\transformed\gifdecoder-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e2b89144358265034a43448a071c864e\transformed\gifdecoder-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c0491fac6740fdba4400823748573f2\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\1c0491fac6740fdba4400823748573f2\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\317cfacce8a1bc815e02f1fc2e2ee810\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\317cfacce8a1bc815e02f1fc2e2ee810\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e35246628629d85fe42f47f2c27d7c3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\e35246628629d85fe42f47f2c27d7c3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\014aa7108a07b2f9ee630255cc92e654\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\014aa7108a07b2f9ee630255cc92e654\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\138ba7c478b4adad07d5249979926e1d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\138ba7c478b4adad07d5249979926e1d\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\61dad9bb1fbd994cdb03b3eadd4cc34c\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\61dad9bb1fbd994cdb03b3eadd4cc34c\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\64b9c8a6fe6a2eba8eb969a7d5826dcb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\64b9c8a6fe6a2eba8eb969a7d5826dcb\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4f2edb34dc740b8825470b268482efe8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\4f2edb34dc740b8825470b268482efe8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c7aa2b6888f8a0e6d649a9759c2e4966\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c7aa2b6888f8a0e6d649a9759c2e4966\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9d825694315e17f95354e80f9eaee10e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9d825694315e17f95354e80f9eaee10e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51ea74b8e1ed5e95f8597ad7cce93692\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51ea74b8e1ed5e95f8597ad7cce93692\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\55eb73f92de882c20eddab51995c7dcb\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\55eb73f92de882c20eddab51995c7dcb\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\922c7fc91bbdd66d6aa31a267453de5a\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\922c7fc91bbdd66d6aa31a267453de5a\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [com.intuit.ssp:ssp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2074ea994a472e27e0baa1605ac85f57\transformed\ssp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.intuit.ssp:ssp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2074ea994a472e27e0baa1605ac85f57\transformed\ssp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\aeb3ee92c1bfa81afe65389ed0aa9397\transformed\sdp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\aeb3ee92c1bfa81afe65389ed0aa9397\transformed\sdp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.github.bumptech.glide:disklrucache:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\530b081add79e53892bd3dd4db13b095\transformed\disklrucache-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:disklrucache:5.0.5] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\530b081add79e53892bd3dd4db13b095\transformed\disklrucache-5.0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8373b5d11bb657cc0674d8f16e577cf8\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8373b5d11bb657cc0674d8f16e577cf8\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RAVI KISHAN SINGH\OneDrive\Desktop\Projects\App\Senexa\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\cf79a66df47e4c0c09f2c95e0037fcc0\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:47:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:50:13-52:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:50:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:51:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:55:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\023abac6ca34390a923f2b1ee4811237\transformed\firebase-messaging-25.0.1\AndroidManifest.xml:61:17-119
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a3a3743f7015e860f823a999d9978155\transformed\play-services-measurement-23.2.0\AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\14257534fc5453cf859371e81e9538b5\transformed\play-services-measurement-impl-23.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\51567ec4d98a0255b1b3fbdcf404256f\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\5afa3c1e926d1de6524ba905cccabdbf\transformed\play-services-measurement-sdk-api-23.2.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\786f42c5306e3cbd721fbce6abf92eff\transformed\play-services-measurement-api-23.2.0\AndroidManifest.xml:34:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\ba9293113e023fa694fe5b60c1bc90f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\2d629e6a319997ed42e63bb5333ee772\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\8db058cbcef7fd29c1d73e933e6a0c82\transformed\firebase-common-22.0.1\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:11:9-19:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\acf5d92fcdadac09b265e94345af979f\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\628f9cf350c1216794f289e121833386\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\54fd2f90da083fbf0b24597504d0bfe0\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\7bd43090b9d490b820ef15bcbc42d4c2\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:24:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\dad09e417ab9e91963f0abee60904a19\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+permission#com.ravis.senexa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+uses-permission#com.ravis.senexa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\b5719f01f7ebb3528948ab5b98b72351\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.8.4] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\288c6fecff509d623dfa3aae246f53df\transformed\room-runtime\AndroidManifest.xml:25:13-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\d17433873b4ecb76ebe248f09a2fa1c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\3ccfc5e3aea9f4a27799da1f2f4cb024\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#okhttp3.internal.platform.PlatformInitializer
+ADDED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.3.2] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\9bbc42ab057886714954a8e840a124aa\transformed\okhttp-release\AndroidManifest.xml:17:17-77
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\32dd1a33bbc2ca31601a303a3439e045\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\a6096b9b917d6d45c428abb9593a414e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\c4b15d32c849fe18867433a86a8073d7\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\RAVI KISHAN SINGH\.gradle\caches\9.6.0\transforms\6ec1a1d607d7d7b2dcd8b6bda3c55f35\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132

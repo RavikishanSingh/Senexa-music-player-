@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout/activity_list_song_item.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout/activity_list_song_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_saved_libraries.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_saved_libraries.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_main_songs_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_main_songs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\download_manager_more_view.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\download_manager_more_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\music_overview_lyrics_bottom_sheet.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\music_overview_lyrics_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\download_manager_list_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\download_manager_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_main_playlist_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_main_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_main_artists_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_main_artists_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_list_song_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_list_song_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\songs_item_shimmer.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\songs_item_shimmer.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout/activity_artist_profile.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout/activity_artist_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\music_overview_more_info_bottom_sheet.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\music_overview_more_info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_list_shimmer.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_list_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\layout_mini_player.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\layout_mini_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\user_created_list_activity_more_bottom_sheet.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\user_created_list_activity_more_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\artist_profile_view_top_songs_shimmer.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\artist_profile_view_top_songs_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\material_custom_switch.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\material_custom_switch.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout/main_drawer_layout.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout/main_drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_list_more_info_bottom_sheet.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_list_more_info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\item_lyric.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\item_lyric.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\main_drawer_layout.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\main_drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\main_playlist_item_shimmer.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\main_playlist_item_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_artist_profile.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_artist_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_see_more.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_see_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_download_manager.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_download_manager.xml"
+    },
+    {
+        "merged": "com.ravis.senexa.app-mergeProdDebugResources-56:/layout/activity_list.xml",
+        "source": "com.ravis.senexa.app-main-59:/layout/activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\add_new_library_bottom_sheet.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\add_new_library_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\widget_player.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\widget_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\progress_bar_layout.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\item_queue_song.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\item_queue_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_list.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_music_overview.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_music_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\bottom_sheet_items_custom_view.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\bottom_sheet_items_custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_built_by.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_built_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_artist_profile_view_top_songs_item.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_artist_profile_view_top_songs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\dialog_queue.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\dialog_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\activity_deep_linking.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\activity_deep_linking.xml"
+    },
+    {
+        "merged": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-mergeProdDebugResources-56:\\layout\\artists_item_shimmer.xml",
+        "source": "C:\\Users\\RAVI KISHAN SINGH\\.gradle\\daemon\\9.6.0\\com.ravis.senexa.app-main-59:\\layout\\artists_item_shimmer.xml"
+    }
+]
